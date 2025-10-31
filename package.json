@@ -1,7 +1,8 @@
 {
-  "name": "desafio-navega-o",
+  "name": "expo-top-tabs-app",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "expo-router/entry",
+
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
